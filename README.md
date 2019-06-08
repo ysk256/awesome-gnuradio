@@ -50,7 +50,7 @@ Software / Hardware for GNU Radio.
 
 - Car
   - [gr-keyfob](https://github.com/bastibl/gr-keyfob) - Transceiver for Hella wireless car key fobs. 
-  - [gr-tpms](Tire Pressure Monitor tools for GNU Radio) - TPMS
+  - [gr-tpms](https://github.com/jboone/gr-tpms) - Tire Pressure Monitor tools for GNU Radio
 
 - aircraft / Marine
   - [gr-adsb](https://github.com/mhostetter/gr-adsb) - GNU Radio OOT Module for demodulating and decoding ADS-B packets
@@ -118,9 +118,9 @@ Software / Hardware for GNU Radio.
   - [acarsdec](https://github.com/TLeconte/acarsdec) - ACARS SDR decoder
   - [ADS-B dump1090](https://www.satsignal.eu/raspberry-pi/dump1090.html) - ADS-B
 
-- sdr w/ Machine Learning
-  - deep-sdr
-  - cnn-rtlsdr
+- SDR w/ Machine Learning
+  - [deep-sdr](https://github.com/cjam/deep-sdr) - Use of Deep Learning for classification of Software Defined Radio spectrum.
+  - [cnn-rtlsdr](https://github.com/randaller/cnn-rtlsdr) - Deep learning signal classification using rtl-sdr dongle 
 
 - References
   - [RFSec-ToolKit](https://github.com/cn0xroot/RFSec-ToolKit) - RFSec-ToolKit is a collection of Radio Frequency Communication Protocol Hacktools.
