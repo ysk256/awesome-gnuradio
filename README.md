@@ -22,18 +22,18 @@ Software / Hardware for GNU Radio.
 
 - Gnu Radio
 - rf-monitor - RF signal monitor
-  - gr-adsb - ADS
-  - gr-foo
-  - gr-ieee802-11
-  - gr-ieee802-15-4
-  - gr-inspector
-  - gr-lora
-  - -gr-radar
-  - gr-satellites
-  - gr-satellites
-  - gr-iridium
-  - gr-tpms
-  - gr-uaslink
+- gr-adsb - ADS
+- gr-foo
+- gr-ieee802-11
+- gr-ieee802-15-4
+- gr-inspector
+- gr-lora
+- -gr-radar
+- gr-satellites
+- gr-satellites
+- gr-iridium
+- gr-tpms
+- gr-uaslink
 
 ## Other SDR Software
 
